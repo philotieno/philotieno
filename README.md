@@ -1,5 +1,5 @@
 # Phil Otieno
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Data+Science;Monitoring & Evaluation)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Data+Science;Monitoring+Evaluation)](https://git.io/typing-svg)
 [![OOP badge](https://github.com/MutisoMuli/MutisoMuli/blob/main/OOP%20badge%20Award.png)](https://www.educative.io/assessments/object-oriented-programming-in-java)[![Algo_badge](https://github.com/MutisoMuli/MutisoMuli/blob/main/Screenshot%202023-09-02%20at%2010.49.37%20PM.png)](https://www.educative.io/assessments/data-structures-and-algorithms-fundamentals)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=innocentsax&label=Profile%20views&color=0e75b6&style=flat" alt="innocentsax" /> </p>
